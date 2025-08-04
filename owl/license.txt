@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eggbert (Low poly Barn owl)
+* source:	https://sketchfab.com/3d-models/eggbert-low-poly-barn-owl-d96c7d6d405b4b71aeac3f62757ebeac
+* author:	LachieRobertson (https://sketchfab.com/LachieRobertson)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eggbert (Low poly Barn owl)" (https://sketchfab.com/3d-models/eggbert-low-poly-barn-owl-d96c7d6d405b4b71aeac3f62757ebeac) by LachieRobertson (https://sketchfab.com/LachieRobertson) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
